@@ -1,0 +1,5 @@
+I wanted to import my record collection into CouchDB, so I wrote these scripts.  I wrote them in
+Erlang so that I could learn a little about Erlang.
+
+See vinyl.txt to see how the file should be formatted.  Originally I kept these in an Org-mode
+table.
